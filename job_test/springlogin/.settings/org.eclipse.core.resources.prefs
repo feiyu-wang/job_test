@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/Register.html=UTF-8
+encoding//WebContent/forgetPass.html=UTF-8
+encoding//WebContent/forsecurity.html=UTF-8
+encoding//WebContent/index.html=UTF-8
+encoding//WebContent/modifyPassword.html=UTF-8
+encoding//WebContent/security.html=UTF-8
+encoding//src/it/com/dao/AdminDao.java=UTF-8
+encoding//src/it/com/dao/PapersDao.java=UTF-8
+encoding//src/it/com/excel/InputOutput.java=UTF-8
